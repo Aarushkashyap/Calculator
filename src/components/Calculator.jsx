@@ -39,10 +39,10 @@ export default function Calculator() {
                 <input type="button"  onClick={clickHandle} value="/" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
             </div>
             <div className="flex justify-between m-2">
-                <input type="button"  onClick={clickHandle} value="1" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
-                <input type="button"  onClick={clickHandle} value="2" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
-                <input type="button"  onClick={clickHandle} value="3" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
-                <input type="button"  onClick={clickHandle} value="+" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="7" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="8" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="9" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="*" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
             </div>
             
             <div className="flex justify-between m-2">
@@ -53,10 +53,10 @@ export default function Calculator() {
             </div>
 
             <div className="flex justify-between m-2">
-                <input type="button"  onClick={clickHandle} value="7" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
-                <input type="button"  onClick={clickHandle} value="8" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
-                <input type="button"  onClick={clickHandle} value="9" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
-                <input type="button"  onClick={clickHandle} value="*" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="1" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="2" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="3" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button"  onClick={clickHandle} value="+" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
             </div>
 
             <div className="flex justify-between m-2">
