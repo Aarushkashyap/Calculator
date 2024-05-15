@@ -1,4 +1,5 @@
 import React from 'react'
+import { BsFillCalculatorFill } from "react-icons/bs";
 
 export default function Calculator() {
   return (
@@ -11,7 +12,8 @@ export default function Calculator() {
         </div>
         
         <div className='logo bg-green-800 bg-opacity-90 mb-2'>
-        <h1 className='text-gray-800 text-sm font-bold text-center'> Calculator </h1>
+        <h1 className='text-gray-800 text-sm font-bold justify-center text-center flex gap-1 items-center'> Calculator <BsFillCalculatorFill />
+ </h1>
         </div>
       </div>
     </div>
