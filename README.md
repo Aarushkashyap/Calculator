@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=008CF7&vCenter=true&random=false&width=435&lines=Cal-C;A+simple+Calculator+application+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=005103&vCenter=true&random=false&width=435&lines=Cal-C;A+simple+Calculator+application+)](https://git.io/typing-svg)
 
 Cal-C is a straightforward todo list application built with React, JavaScript, and Tailwind CSS. It provides a simple interface to efficiently make calculations.
 
