@@ -12,14 +12,6 @@ Cal-C is a straightforward todo list application built with React, JavaScript, a
 - **Tailwind CSS**: The styling of Cal-C is done using Tailwind CSS, a utility-first CSS framework.
 - **React Icons**: React Icons is used to include icons in the application for better user experience.
 
-## Features
-
-- **Add Tasks**: Add new tasks to your todo list.
-- **Edit Tasks**: Edit existing tasks inline.
-- **Delete Tasks**: Remove tasks from the list.
-- **Mark as Completed**: Check off tasks as you complete them.
-- **Show/Hide Completed Tasks**: Toggle to show or hide completed tasks.
-- **Local Storage**: TaskIt utilizes local storage to persist todo items, ensuring your tasks are saved even after you close the browser.
 
 ## Usage
 
