@@ -12,9 +12,19 @@ export default function Calculator() {
         </div>
         
         <div className='logo bg-green-800 bg-opacity-90 mb-2'>
-        <h1 className='text-gray-800 text-sm font-bold justify-center text-center flex gap-1 items-center'> Calculator <BsFillCalculatorFill />
- </h1>
+            <h1 className='text-gray-800 text-sm font-bold justify-center text-center flex gap-1 items-center'> Calculator <BsFillCalculatorFill /></h1>
         </div>
+
+        <div className="keyword">
+            <div className="flex justify-between m-2">
+                <input type="button" value="C" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button" value="<" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button" value="%" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+                <input type="button" value="/" className='bg-black shadow-md w-12 h-12 rounded-lg text-center text-green-800 font-medium'/>
+            </div>
+            
+        </div>
+
       </div>
     </div>
   )
